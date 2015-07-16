@@ -1,7 +1,7 @@
 #ifndef Main_H
 #define Main_H
 
-/*
+
 class Card;
 class CardStack;
 class Character;
@@ -70,7 +70,7 @@ class Sweep;
 class UnDragonBreath;
 class UnMeteor;
 class WeaponMaster;
-*/
+
 
 
 #include <stdio.h>
@@ -87,6 +87,7 @@ using namespace std;
 #include "Character.h"
 #include "Dragon.h"
 #include "Hero.h"
+#include "AI.h"
 #include "Magic.h"
 #include "Sword.h"
 #include "Table.h"
@@ -150,6 +151,16 @@ using namespace std;
 
 #include "Heros\HuXin.cpp"
 #include "Heros\HuXueDong.cpp"
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <map>
+#include <vector>
+#include <string>
+#include <time.h>
+#include <typeinfo>
+using namespace std;
+
 
 
 #endif
