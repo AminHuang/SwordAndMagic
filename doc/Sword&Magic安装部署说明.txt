@@ -1,6 +1,6 @@
 本软件需安装在window系统下，支持win7，win8
 安装步骤：
-双击点开SwordMagic.exe即可运行游戏，出现游戏开始界面即为安装成功
+解压Sword&Magic安装包，进入SWord&Magic文件夹，再进入Main文件夹，选择Release.win32,最后双击点开SwordMagic.exe即可运行游戏，出现游戏开始界面即为安装成功
 
 
 常见问题：
